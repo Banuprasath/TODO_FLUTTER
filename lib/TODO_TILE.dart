@@ -55,7 +55,10 @@ class ToDoTile extends StatelessWidget {
           ),
           padding: const EdgeInsets.all(20),
           decoration: BoxDecoration(
-              color: Colors.yellow, borderRadius: BorderRadius.circular(12)),
+            color: Colors.yellow, borderRadius: BorderRadius.circular(12),
+            //color: Colors.white38,
+            // borderRadius: BorderRadius.circular(12),
+          ),
         ),
       ),
     );
